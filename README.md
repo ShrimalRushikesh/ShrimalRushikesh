@@ -5,8 +5,9 @@
 #### Skills: JS / HTML / CSS / Embedded Engineer / C / Embedded C / PTC Thingworx Platform / PTC Kepware
 
 - 🌱 I’m currently learning Full Stack Development. 
-- 👯 I’m looking to collaborate on Thingworx Project and Web Development Projects. 
 - 🤔 I’m looking for help with Web Development Project. 
+- 👯 I’m looking to collaborate on Thingworx Project and Web Development Projects. 
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrimalRushikesh&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrimalRushikesh)](https://github.com/anuraghazra/github-readme-stats)
