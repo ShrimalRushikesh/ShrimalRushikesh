@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Web Development Project. 
 - 👯 I’m looking to collaborate on Thingworx IIoT Project with Kepware integration connection and Web Development Projects. 
  
-
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQGUdWAtQYEgTA/profile-displaybackgroundimage-shrink_350_1400/0/1672246160045?e=1677715200&v=beta&t=4SujctkK_Sij-QOWiUJpWVG-aE_IJ8wF76ToUypX9PE)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrimalRushikesh&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrimalRushikesh)](https://github.com/anuraghazra/github-readme-stats)
 
