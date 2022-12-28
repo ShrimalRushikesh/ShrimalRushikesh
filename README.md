@@ -1,13 +1,13 @@
-## Hi there 👋, Rushikesh Shrimal
-### Jr. Thingworx Engineer
-#### Thingworx Developer | Electronics Engineer | IIoT & IoT | Implementation Engineer | Embedded Developer
+## Rushikesh Shrimal
+
+#### Jr. Thingworx Engineer | Electronics Engineer | IIoT & IoT | Implementation Engineer
 
 #### Skills: JS / HTML / CSS / Embedded Engineer / C / Embedded C / PTC Thingworx Platform / PTC Kepware
 
 - 🌱 I’m currently learning Full Stack Development. 
 - 🤔 I’m looking for help with Web Development Project. 
 - 👯 I’m looking to collaborate on Thingworx IIoT Project with Kepware integration connection and Web Development Projects. 
-
+ 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrimalRushikesh&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrimalRushikesh)](https://github.com/anuraghazra/github-readme-stats)
