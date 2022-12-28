@@ -2,7 +2,7 @@
 
 #### Jr. Thingworx Engineer | Electronics Engineer | IIoT & IoT | Implementation Engineer
 
-#### Skills: JS / HTML / CSS / Embedded Engineer / C / Embedded C / PTC Thingworx Platform / PTC Kepware
+#### Skills: PTC Thingworx / PTC Kepware / JS / HTML / CSS / Embedded Engineer / C / Embedded C
 
 - 🌱 I’m currently learning Full Stack Development. 
 - 🤔 I’m looking for help with Web Development Project. 
