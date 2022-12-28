@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Full Stack Development. 
 - 🤔 I’m looking for help with Web Development Project. 
-- 👯 I’m looking to collaborate on Thingworx Project and Web Development Projects. 
+- 👯 I’m looking to collaborate on Thingworx IIoT Project with Kepware integration connection and Web Development Projects. 
 
 
 
