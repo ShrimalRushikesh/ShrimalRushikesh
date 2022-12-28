@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Rushikesh Shrimal.
+## Hi there 👋, I'm Rushikesh Shrimal from Pune, India.
 ### Jr. Thingworx Engineer
 #### Thingworx Developer | Electronics Engineer | IIoT & IoT | Implementation Engineer | Embedded Developer
 
